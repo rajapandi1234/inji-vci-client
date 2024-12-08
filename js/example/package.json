@@ -20,7 +20,7 @@
   "license": "MPL-2.0",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "http-proxy-middleware": "^3.0.3",
     "inji-vci-client": "^1.0.0",
     "oidc-client": "^1.11.5",
