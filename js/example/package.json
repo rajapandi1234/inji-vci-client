@@ -21,7 +21,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.1",
-    "http-proxy-middleware": "^3.0.3",
+    "http-proxy-middleware": "^3.0.5",
     "inji-vci-client": "^1.0.0",
     "oidc-client": "^1.11.5",
     "open": "^10.1.0",
